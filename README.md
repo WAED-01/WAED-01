@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WAED-01
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Software Engineering.
+- 👀 I’m interested in AI engineering.
+- 🌱 I’m currently a Software Engineering student.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: hijjawi.waed@gmail.com
+- 📫 How to reach me: engwaedahmad@gmail.com
 - ⚡ Fun fact: Life is too short to be sad ^^.
 
 <!---
